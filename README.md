@@ -1,4 +1,4 @@
-# F1_race_weekends php exercise
-php teste no codespaces baseado em: https://github.com/FMI-VT/plain-php-codespace.
-
-Os comentários do projeto estão em inglês para facilitar o trabalho com o copilot.
+# plain-php-codespace
+Github codespace used for FMI-VT exercises
+// run php with an absolute docroot: php -S 0.0.0.0:8080 -t /workspaces/plain-php-codespace-Kadran-fork/src
+// test with "$BROWSER" "http://localhost/Dynamic_page.php"
